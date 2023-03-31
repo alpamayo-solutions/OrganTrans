@@ -1,7 +1,6 @@
 <div>
 
-[English](README.md) | [简体中文](README.zh-CN.md)
-<br>
+<h1>OrganTrans Fork</h1>
 
 This is a fork for the OrganTrans project. The original repo can be found [here](https://ultralytics.com/yolov5).
 In order to reproduce the code, please follow the instructions below:
@@ -57,6 +56,8 @@ In order to reproduce the code, please follow the instructions below:
         --task test 
     ```
 
+
+<h1>Original Documentation</h1>
 <div>
     <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
     <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
