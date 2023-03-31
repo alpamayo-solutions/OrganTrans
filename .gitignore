@@ -23,6 +23,8 @@
 !setup.cfg
 !cfg/yolov3*.cfg
 
+.comet_ml-runs/
+
 storage.googleapis.com
 runs/*
 data/*
